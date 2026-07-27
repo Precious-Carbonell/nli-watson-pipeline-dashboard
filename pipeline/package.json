@@ -1,0 +1,20 @@
+{
+  "name": "pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pipeline": "node src/run_pipeline.js",
+    "diagnostics": "node src/run_pipeline.js --step 1",
+    "clean": "node src/run_pipeline.js --step 2",
+    "export": "node src/run_pipeline.js --step 3",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "duckdb": "^1.4.4"
+  }
+}
