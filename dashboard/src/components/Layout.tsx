@@ -28,7 +28,7 @@ export function Layout({ children }: LayoutProps) {
   return (
     <>
       <header className="app-header">
-        <h1>NLI Watson — Multilingual Analysis Dashboard</h1>
+        <h1>NLI Watson - Multilingual Analysis Dashboard</h1>
         <div className="header-controls">
           <nav className="tab-bar" role="tablist" aria-label="Dashboard sections">
             {TABS.map((tab) => (
