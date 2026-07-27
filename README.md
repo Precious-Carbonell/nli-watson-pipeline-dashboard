@@ -1,10 +1,10 @@
-# 🧠 Contradictory, My Dear Watson — EDA Dashboard & Pipeline
+# Contradictory, My Dear Watson - EDA Dashboard & Pipeline
 
-This project presents an end-to-end **Exploratory Data Analysis (EDA) dashboard and data pipeline** for the Kaggle competition:
+## Links
 
-## 🔗 Competition Link
-
-[Contradictory, My Dear Watson (Kaggle)](https://www.kaggle.com/competitions/contradictory-my-dear-watson]
+Live Dashboard: https://nli-watson-pipeline-dashboard.vercel.app
+Competition Link: https://www.kaggle.com/competitions/contradictory-my-dear-watson
+Dataset: https://www.tensorflow.org/datasets
 
 ---
 
@@ -93,9 +93,4 @@ The dataset is **multilingual**, covering 15 languages, making the task more cha
 * DuckDB-WASM
 * Recharts
 
----
-
-## 🌐 Live Dashboard
-
-[View Live Project](https://nli-watson-pipeline-dashboard.vercel.app/?utm_source=chatgpt.com)
 
