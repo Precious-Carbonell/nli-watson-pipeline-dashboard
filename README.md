@@ -2,9 +2,9 @@
 
 ## Links
 
-Live Dashboard: https://nli-watson-pipeline-dashboard.vercel.app
-Competition Link: https://www.kaggle.com/competitions/contradictory-my-dear-watson
-Dataset: https://www.tensorflow.org/datasets
+* Live Dashboard: https://nli-watson-pipeline-dashboard.vercel.app
+* Competition Link: https://www.kaggle.com/competitions/contradictory-my-dear-watson
+* Dataset: https://www.tensorflow.org/datasets
 
 ---
 
